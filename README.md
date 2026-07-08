@@ -123,6 +123,6 @@ Crowd-Density-Estimation/
 
 ## Author
 
-Aishwarya Bheemanna Talikoti
+Priyanka Channappa Badiger
 
 Project developed as part of the Machine Learning & Deep Learning course.
